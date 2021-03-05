@@ -1,3 +1,5 @@
+##### Please tech me this program
+
 #include<stdio.h>
 #include<conio.h>
 #define max 10
